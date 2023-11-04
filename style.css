@@ -23,7 +23,7 @@ body {
 
 
 /* Header Section */
-.header {
+header {
   position: sticky !important;
   top: 0px;
   background: white;
@@ -1044,13 +1044,13 @@ body {
 
 @media screen and (max-width: 1440px) {
     .hero-arrow {
-      left: 45.5vw;
-      bottom: 4vh;
+      left: 43vw;
+      bottom: 3vh;
     }
   }
   @media screen and (max-width: 1225px){
     .hero-arrow {
-      left: 53vw;
+      left: 50vw;
       bottom: 4vh;
     }
     .hero-section {
